@@ -22,7 +22,7 @@
         "display7Font": "Poiret One",
         "display7Size": 1,
         "display4Font": "Poiret One",
-        "display4Size": "1.4",
+        "display4Size": "2",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
@@ -52,7 +52,7 @@
         "url": "https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
       }
     ],
-    "uniqCompNum": 56,
+    "uniqCompNum": 57,
     "versionPublish": "4.10.5",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -3915,6 +3915,25 @@
           ],
           "_name": "instagram-feed-block",
           "_anchor": "instagram-feed-block-1i"
+        },
+        {
+          "_afterNavbarItem": false,
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "sound": "https://soundcloud.com/bbymutha",
+            "autoplay": false,
+            "fullWidth": true,
+            "bgColor": "#7bdff2"
+          },
+          "iframeSRC": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Fusers%2F11366001&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
+          "soundURL": "url=https%3A%2F%2Fapi.soundcloud.com%2Fusers%2F11366001",
+          "alias": "soundcloud",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "soundcloud1",
+          "_anchor": "soundcloud1-1k"
         }
       ]
     },
